@@ -42,6 +42,13 @@ C:\workspace\work_togther\work_togther\work_togther.web\bin\zh-Hans\System.Web.R
 C:\workspace\work_togther\work_togther\work_togther.web\bin\zh-Hans\System.Web.WebPages.resources.dll
 C:\workspace\work_togther\work_togther\work_togther.web\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 C:\workspace\work_togther\work_togther\work_togther.web\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
-C:\workspace\work_togther\work_togther\work_togther.web\obj\Debug\work_togther.web.csprojResolveAssemblyReference.cache
 C:\workspace\work_togther\work_togther\work_togther.web\obj\Debug\work_togther.web.dll
 C:\workspace\work_togther\work_togther\work_togther.web\obj\Debug\work_togther.web.pdb
+C:\workspace\work_togther\work_togther\work_togther.web\bin\EntityFramework.dll
+C:\workspace\work_togther\work_togther\work_togther.web\bin\EntityFramework.SqlServer.dll
+C:\workspace\work_togther\work_togther\work_togther.web\bin\MySql.Data.dll
+C:\workspace\work_togther\work_togther\work_togther.web\bin\MySql.Data.Entity.EF6.dll
+C:\workspace\work_togther\work_togther\work_togther.web\bin\EntityFramework.xml
+C:\workspace\work_togther\work_togther\work_togther.web\bin\EntityFramework.SqlServer.xml
+C:\workspace\work_togther\work_togther\work_togther.web\bin\MySql.Data.xml
+C:\workspace\work_togther\work_togther\work_togther.web\bin\MySql.Data.Entity.EF6.xml
