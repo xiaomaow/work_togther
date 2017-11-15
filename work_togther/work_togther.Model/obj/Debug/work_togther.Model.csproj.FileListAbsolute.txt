@@ -1,0 +1,14 @@
+C:\workspace\work_togther\work_togther\work_togther.Model\bin\Debug\work_togther.Model.dll
+C:\workspace\work_togther\work_togther\work_togther.Model\bin\Debug\work_togther.Model.pdb
+C:\workspace\work_togther\work_togther\work_togther.Model\obj\Debug\work_togther.Model.csprojResolveAssemblyReference.cache
+C:\workspace\work_togther\work_togther\work_togther.Model\obj\Debug\work_togther.Model.dll
+C:\workspace\work_togther\work_togther\work_togther.Model\obj\Debug\work_togther.Model.pdb
+C:\workspace\work_togther\work_togther\work_togther.Model\bin\Debug\work_togther.Model.dll.config
+C:\workspace\work_togther\work_togther\work_togther.Model\bin\Debug\EntityFramework.dll
+C:\workspace\work_togther\work_togther\work_togther.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\workspace\work_togther\work_togther\work_togther.Model\bin\Debug\MySql.Data.dll
+C:\workspace\work_togther\work_togther\work_togther.Model\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\workspace\work_togther\work_togther\work_togther.Model\bin\Debug\EntityFramework.xml
+C:\workspace\work_togther\work_togther\work_togther.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\workspace\work_togther\work_togther\work_togther.Model\bin\Debug\MySql.Data.xml
+C:\workspace\work_togther\work_togther\work_togther.Model\bin\Debug\MySql.Data.Entity.EF6.xml

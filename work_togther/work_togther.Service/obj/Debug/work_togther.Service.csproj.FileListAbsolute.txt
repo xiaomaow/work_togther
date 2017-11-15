@@ -1,0 +1,5 @@
+C:\workspace\work_togther\work_togther\work_togther.Service\bin\Debug\work_togther.Service.dll
+C:\workspace\work_togther\work_togther\work_togther.Service\bin\Debug\work_togther.Service.pdb
+C:\workspace\work_togther\work_togther\work_togther.Service\obj\Debug\work_togther.Service.csprojResolveAssemblyReference.cache
+C:\workspace\work_togther\work_togther\work_togther.Service\obj\Debug\work_togther.Service.dll
+C:\workspace\work_togther\work_togther\work_togther.Service\obj\Debug\work_togther.Service.pdb
