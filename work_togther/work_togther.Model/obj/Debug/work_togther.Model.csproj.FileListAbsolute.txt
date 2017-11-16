@@ -11,3 +11,4 @@ C:\workspace\work_togther\work_togther\work_togther.Model\bin\Debug\EntityFramew
 C:\workspace\work_togther\work_togther\work_togther.Model\bin\Debug\EntityFramework.SqlServer.xml
 C:\workspace\work_togther\work_togther\work_togther.Model\bin\Debug\MySql.Data.xml
 C:\workspace\work_togther\work_togther\work_togther.Model\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\workspace\work_togther\work_togther\work_togther.Model\obj\Debug\work_togther.Model.csprojResolveAssemblyReference.cache
