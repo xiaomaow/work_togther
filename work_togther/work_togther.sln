@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "work_togther.Service", "wor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "work_togther.Common", "work_togther.Common\work_togther.Common.csproj", "{BF08DFAA-F395-4A70-BF8F-4C4C2FDF196A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "work_togther.ServiceTests", "work_togther.ServiceTests\work_togther.ServiceTests.csproj", "{973E7379-7102-4C69-BE24-C720E48AAD77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{BF08DFAA-F395-4A70-BF8F-4C4C2FDF196A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF08DFAA-F395-4A70-BF8F-4C4C2FDF196A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF08DFAA-F395-4A70-BF8F-4C4C2FDF196A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{973E7379-7102-4C69-BE24-C720E48AAD77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{973E7379-7102-4C69-BE24-C720E48AAD77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{973E7379-7102-4C69-BE24-C720E48AAD77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{973E7379-7102-4C69-BE24-C720E48AAD77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

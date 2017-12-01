@@ -52,4 +52,5 @@ C:\workspace\work_togther\work_togther\work_togther.web\bin\EntityFramework.xml
 C:\workspace\work_togther\work_togther\work_togther.web\bin\EntityFramework.SqlServer.xml
 C:\workspace\work_togther\work_togther\work_togther.web\bin\MySql.Data.xml
 C:\workspace\work_togther\work_togther\work_togther.web\bin\MySql.Data.Entity.EF6.xml
+C:\workspace\work_togther\work_togther\work_togther.web\bin\zh-Hans\EntityFramework.resources.dll
 C:\workspace\work_togther\work_togther\work_togther.web\obj\Debug\work_togther.web.csprojResolveAssemblyReference.cache
